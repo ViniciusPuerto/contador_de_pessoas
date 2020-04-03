@@ -17,10 +17,17 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-## Prints
+## Prints of the state changing
 
-![Condition 1](./images/print1.png)
 
-![Condition 2](./images/print2.png)
+<img src="./images/print1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; width: 25%" />
 
-![Condition 3](./images/print3.png)
+<img src="./images/print1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; width: 25%"  />
+
+<img src="./images/print1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; width: 25%" />
