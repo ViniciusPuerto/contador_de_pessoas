@@ -1,6 +1,7 @@
-# contadordepessoas
+# Contador de Pessoas
 
-A new Flutter application.
+A simple app to begin the development of Flutter.
+This project approach basic concepts as Widgets (statefuls and stateless), OOP, inheritance of widgets, use of assets ...
 
 ## Getting Started
 
@@ -14,3 +15,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Prints
+
+![Condition 1](./images/print1.png)
+
+![Condition 2](./images/print2.png)
+
+![Condition 3](./images/print3.png)
