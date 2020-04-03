@@ -22,12 +22,12 @@ samples, guidance on mobile development, and a full API reference.
 
 <img src="./images/print1.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 25%" />
+     width= "25%" />
 
 <img src="./images/print1.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 25%"  />
+     width= "25%"  />
 
 <img src="./images/print1.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 25%" />
+     width= "25%" />
