@@ -24,10 +24,10 @@ samples, guidance on mobile development, and a full API reference.
      alt="Markdown Monster icon"
      width= "25%" />
 
-<img src="./images/print1.png"
+<img src="./images/print2.png"
      alt="Markdown Monster icon"
      width= "25%"  />
 
-<img src="./images/print1.png"
+<img src="./images/print3.png"
      alt="Markdown Monster icon"
      width= "25%" />
